@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @developer-prathamesh
 - 👀 I’m interested in learning new technologies 
-- 🌱 I’m currently learning ...web development, network securtiy
+- 🌱 I’m currently learning ...web development, network security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me prathameshkulkarnidev@gmail.com
 
