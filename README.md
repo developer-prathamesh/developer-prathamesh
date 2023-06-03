@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Kulkarni</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently learning **Java Fullstack Ddeve**
+- 🔭 I’m currently learning **Java Fullstack Development**
 
-- 💬 Ask me about **react.js**
+- 💬 Ask me about **react.js,hibernate orm , jsp , mysql , mongodb**
 
 - 📫 How to reach me **prathameshkulkarnidev@gmail.com**
 
